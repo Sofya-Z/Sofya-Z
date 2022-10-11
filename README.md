@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sofya-Z
+- 👀 I’m interested in DA and DI for business
+- 🌱 I’m currently learning python and PostgreSQL
