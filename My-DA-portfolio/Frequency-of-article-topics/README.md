@@ -16,7 +16,7 @@
 
 * На основании дашборда сделан [отчет в форме презентации](https://github.com/Sofya-Z/Sofya-Z/blob/main/My-DA-portfolio/Frequency-of-article-topics/dynamics_visits_dzen.pdf) представлены выводы: Выявлена связь тем статей и источников, найдены наиболее популярные темы.
 
-* [Тетрадь Jupyter]() для выгрузки, предобработки и анализа данных
+* [Тетрадь Jupyter](https://github.com/Sofya-Z/Sofya-Z/blob/main/My-DA-portfolio/Frequency-of-article-topics/dash_for_dzen-final.ipynb) для выгрузки, предобработки и анализа данных
 
 ### Стек:
 Python: pandas, matplotlib.pyplot, sqlalchemy, TableauPublic, PowerPoint
