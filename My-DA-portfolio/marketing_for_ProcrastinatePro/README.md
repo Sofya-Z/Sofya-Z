@@ -18,4 +18,4 @@
 * Выдвинуты гипотезы о причинах низкой конверсии пользователей
 
 ### Стек:
-Python, pandas, sqlalchemy.create_engine, SQLite, Tableau, PowerPoint
+Python: pandas, matplotlib.pyplot, datetime, numpy
