@@ -14,7 +14,7 @@
 ### Результат:
 * Создан [дашборд](https://public.tableau.com/app/profile/sofya4724/viz/DashfoYa_Dzen/result?publish=yes) при помощи TableauPublic
 
-* На основании дашборда сделан [отчет в форме презентации]() представлены выводы: Выявлена связь тем статей и источников, найдены наиболее популярные темы.
+* На основании дашборда сделан [отчет в форме презентации](https://github.com/Sofya-Z/Sofya-Z/blob/main/My-DA-portfolio/Frequency-of-article-topics/dynamics_visits_dzen.pdf) представлены выводы: Выявлена связь тем статей и источников, найдены наиболее популярные темы.
 
 * [Тетрадь Jupyter]() для выгрузки, предобработки и анализа данных
 
