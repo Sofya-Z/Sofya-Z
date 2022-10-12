@@ -7,7 +7,7 @@
 Изучить NPS среди клиентовкомпании и его зависимость от пользовательских признаков. Представить отчет в PowerPoint.
 
 ### Результат:
-* [Тетрадь Jupyter с SQL запросом]()
+* [Тетрадь Jupyter с SQL запросом](https://github.com/Sofya-Z/Sofya-Z/blob/main/My-DA-portfolio/NPS-for-telecom/NPS_for_telecom_report.ipynb)
 * [Структура данных опроса](https://public.tableau.com/app/profile/sofya4724/viz/Datastructure_16572198908430/datastructure?publish=yes)
 * [Результаты изучения NPS](https://public.tableau.com/app/profile/sofya4724/viz/NPSdynamics/dynamicsNPS?publish=yes)
 * [Презентация о сделанных выводах](https://github.com/Sofya-Z/Sofya-Z/blob/9ab7e0cb01faf3b2475cabd8b299e5a683bb0334/My-DA-portfolio/NPS-for-telecom/NPS_for_telecom_zimina.pdf)
