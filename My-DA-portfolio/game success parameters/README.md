@@ -15,7 +15,7 @@
 * Составить портрет пользователя для каждого региона
 
 ### Результат:
-[Тетрадь Jupyter](https://github.com/Sofya-Z/Sofya-Z/blob/main/My-DA-portfolio/game success parameters/game_success_parameters.ipynb)
+[Тетрадь Jupyter]([https://github.com/Sofya-Z/Sofya-Z/blob/main/My-DA-portfolio/game success parameters/game_success_parameters.ipynb](https://github.com/Sofya-Z/Sofya-Z/blob/9562119746dde66358d024505d6e05bfa4fbb58e/My-DA-portfolio/game%20success%20parameters/game_success_parameters.ipynb)https://github.com/Sofya-Z/Sofya-Z/blob/9562119746dde66358d024505d6e05bfa4fbb58e/My-DA-portfolio/game%20success%20parameters/game_success_parameters.ipynb)
 
 ### Стек:
 Python, алгоритмы, pandas, исследовательский анализ данных, SQL, PostgreSQL, статистика, проверка статистических гипотез, A/B-тест
