@@ -15,7 +15,7 @@
 * Составить портрет пользователя для каждого региона
 
 ### Результат:
-[Тетрадь Jupyter](https://github.com/Sofya-Z/Sofya-Z/blob/main/My-DA-portfolio/NPS-for-telecom/NPS_for_telecom_report.ipynb)
+[Тетрадь Jupyter](https://github.com/Sofya-Z/Sofya-Z/blob/main/My-DA-portfolio/game success parameters/game_success_parameters.ipynb)
 
 ### Стек:
 Python, алгоритмы, pandas, исследовательский анализ данных, SQL, PostgreSQL, статистика, проверка статистических гипотез, A/B-тест
