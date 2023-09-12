@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Sofya-Z (Sofya ZIMINA)
-- You can found my portfolio in repository [My-DA-portfolio](https://github.com/Sofya-Z/Sofya-Z/tree/22a67f6a664e4b5620601f6ec3c24170971d51aa/My-DA-portfolio)
+- You can found my portfolio in repository [My-DA-portfolio](https://github.com/Sofya-Z/Sofya-Z/tree/main/My-DA-portfolio)
 - 👀 I’m interested in DA and DI for business
 - 🌱 I’m currently learning python and PostgreSQL
