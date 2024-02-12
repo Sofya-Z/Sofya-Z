@@ -1,4 +1,4 @@
 # Predicting the body fat percentage based on classic anthropometric traits using an explainable machine learning algorithm
 
 [This file]() content python code to create models for calculate body fat persentage based on anthropometric features.
-Here you can find final models for [men]() and [women]().
+Here you can find final models for [men](ML for body fat persentage/last_version_26.01_model_m_904_.bin) and [women]().
